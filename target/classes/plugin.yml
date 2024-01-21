@@ -1,0 +1,11 @@
+name: SomNetworkCord
+version: '1.0-SNAPSHOT'
+main: SomNetworkCord.SomCore
+api-version: '1.20'
+folia-supported: true
+
+commands:
+  SncReload:
+    permission: snc.reload
+    description: description
+    usage: /<command>
